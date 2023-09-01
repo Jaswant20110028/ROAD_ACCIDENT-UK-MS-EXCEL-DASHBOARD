@@ -7,7 +7,7 @@ I also shared them the Insights of the overall sales needed to decrease the casu
 # EXCEL FILE LINK:
 (Note- Download then open in Ms-Excel of pc for perfect view)
 
-
+https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=drive_web&ouid=105970714442234498603&rtpof=true
 
 # Database and Tools:
 1. MS-EXCEL
@@ -15,6 +15,9 @@ I also shared them the Insights of the overall sales needed to decrease the casu
 3. SLICERS, HYPERLINK, etc.
 
 # DASHBOARD:
+![Screenshot (18)](https://github.com/Jaswant20110028/ROAD_ACCIDENT-UK-MS-EXCEL-DASHBOARD/assets/142691885/688d70b7-dc9c-4fbd-b362-392a63cba6e4)
+
+
 
 
 # INSIGHTS:
