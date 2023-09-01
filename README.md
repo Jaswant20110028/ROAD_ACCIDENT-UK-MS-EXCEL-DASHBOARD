@@ -21,5 +21,24 @@ https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?us
 
 
 # INSIGHTS:
+Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on below requirements-
+1. Total casualties taken place after the accident.
+2. Total casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
+3. Total casualties with respect to vehicle type.
+4. Monthly trend showing comparison of casualties for current year and Previous year .
+5. Maximum casualties by road type.
+6. Relation between Casualties by area/Location & by Day/Night.
 
-# CONCLUSION TO IMPROVE VISHRUT STORE SALES:
+#STAKEHOLDERS:
+1. Ministry of transport.
+2. Road transport department.
+3. Police force.
+4. Emergency Services Department.
+5. Road Safety Corps.
+6. Transport operator.
+7. Traffic Management Agencies.
+8. Public.
+9. Media.
+
+
+
